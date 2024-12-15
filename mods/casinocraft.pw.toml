@@ -1,13 +1,13 @@
 name = "CasinoCraft"
-filename = "CasinoCraft_1.20.1_v24.jar"
+filename = "CasinoCraft_1.20.1_v25.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "613f6bcc6bd6cba4d428996f5f2b2c14922679b6"
+hash = "13df01ff1ea3472d63cf025a4a8ebcd9e15049aa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5355615
+file-id = 5942243
 project-id = 243471
