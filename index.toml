@@ -411,6 +411,11 @@ hash = "c72f8ebba01c1973ec01c89f5c7d430009dbdb96a75a4a7c988781a99f25718a"
 metafile = true
 
 [[files]]
+file = "mods/bocchi-the-glock-mod.pw.toml"
+hash = "fda6dedcf8872c9e6eadd855bb82731f8af8dc7cd2fcc8505cbbcdc7675a8fc9"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
 metafile = true
@@ -467,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
+hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
 
 [[files]]
@@ -478,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+hash = "ac1b5d2396a45632fb2c273a4cbb5fd0b8d3c6653ed9431360f2edb15a35c76d"
 metafile = true
 
 [[files]]
@@ -503,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "ef02794d516cc630a16b6b55348bc95bfcbd631eef19e8c3091331abb66448e7"
 metafile = true
 
 [[files]]
@@ -538,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "e5c70c97f5c25e8cc14838d78739934ec963cfa70373c018eb9eb96f1685d84c"
+metafile = true
+
+[[files]]
+file = "mods/death-note-remastered.pw.toml"
+hash = "1375f3071788cec332f43cb759a71fbabe73ee3d1882a924c4768e19fe501b2d"
 metafile = true
 
 [[files]]
@@ -681,16 +701,6 @@ hash = "865f26c796d9fa6aab98b8e400bf2a67a7a586432317430bef8d8af8cf028a4e"
 metafile = true
 
 [[files]]
-file = "mods/fexcraft-common-library.pw.toml"
-hash = "09b12d3f5b33dcad5d2cd7f458258af6a1cc7f68e65cfa41ed91446d22e2a33a"
-metafile = true
-
-[[files]]
-file = "mods/fexs-vehicle-mod.pw.toml"
-hash = "6dcc59fbdfcafa77401ccee41daafae3ca0f94b6c2816ab905513251ea4f072e"
-metafile = true
-
-[[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
@@ -741,23 +751,18 @@ hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
 
 [[files]]
-file = "mods/fvp.pw.toml"
-hash = "b4567ffb727d6df5d6f863acf59f54ddf4f92affafbfa9b734180fdb3d0985ed"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5c9e8b193a1cc6206081816355a8c6295ae14498fe914dc846d0af86d01daa3a"
 metafile = true
 
 [[files]]
-file = "mods/gep.pw.toml"
-hash = "5efe43d23cc901f88cdc46eeeee408609e824e47912a58eb9c75fb0fa592269d"
+file = "mods/get-it-together-drops.pw.toml"
+hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
 metafile = true
 
 [[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
+file = "mods/hammer-lib.pw.toml"
+hash = "477cb4eb5a51737b780c956048834cc7488a1bf2887281a61420cb12713d1a01"
 metafile = true
 
 [[files]]
@@ -803,6 +808,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering.pw.toml"
 hash = "7a7f0016536b0763ce3f7c3d3062a094673a63196e95356107768c431f1b7102"
+metafile = true
+
+[[files]]
+file = "mods/improvable-skills.pw.toml"
+hash = "25566825c0fce350f7c85cd73ca2d29087f658bb22fdcfb0bbf6cf0edac3d7d4"
 metafile = true
 
 [[files]]
@@ -906,6 +916,11 @@ hash = "748eefa0cc7158c06340209878f48e1e5d7653d6bc17deac0eed4a91cb27807e"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-turrets.pw.toml"
+hash = "aff54dd6b8c2e86564226ca236c2027b81f864081054fbb49d5ff9fae61d30cb"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "4491ebf602a79ed2918fdf19b98df2149fdbbe982a755f63507688c9de0207ac"
 metafile = true
@@ -953,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/more-mekanism-processing.pw.toml"
 hash = "e55d2520a24cc49eabb8a0dacf9808c5d97c6f1323796c67305db11416bd9ea4"
+metafile = true
+
+[[files]]
+file = "mods/more-mobs.pw.toml"
+hash = "d145de458656e554b173e8f30311938fe4db8ccf3045540e8a7bf7b615e76913"
 metafile = true
 
 [[files]]
@@ -1023,6 +1043,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "a22c4514dca92a7e99bf08bd3ead1fd2889bf2bc60a57db7b987488c76834c55"
+metafile = true
+
+[[files]]
+file = "mods/paper-doll.pw.toml"
+hash = "d30db6b7be4f6db1730278c9390d796e36b4a522bb7fc18f26664d49d0eeaa8d"
 metafile = true
 
 [[files]]
@@ -1101,6 +1126,11 @@ hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
 metafile = true
 
 [[files]]
+file = "mods/remorphed.pw.toml"
+hash = "4eeb2780f3aa864a6ccf2804404bb3e812118d1166b5b75da2299c65cd1d7651"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
@@ -1108,6 +1138,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
+metafile = true
+
+[[files]]
+file = "mods/riskofrain-mobs.pw.toml"
+hash = "26ee0d8508566112e779004d9cb1c53937f109991d61e89755c020cdaea88fce"
 metafile = true
 
 [[files]]
@@ -1146,6 +1181,11 @@ hash = "2781e35de4c1cc8534d542b6d2060b14b6ab2e0ed2fe6a5586590a430d8afc1a"
 metafile = true
 
 [[files]]
+file = "mods/shadowizardlib.pw.toml"
+hash = "0a149479f7f8f09793b44e988a71fe24811b94728201027830b4d56dca7524e3"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "9ba55dd2e6c96446a48460b1f0ecb21022fe5a76441b74f0fd1a48535b16d0c9"
 metafile = true
@@ -1153,6 +1193,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "dd7e58c1618dc45240e405ae0fb38765663c157151bec663d1e3ed404e20e77e"
+metafile = true
+
+[[files]]
+file = "mods/skillcloaks.pw.toml"
+hash = "089debd26d5c1fcc08ed1bfb40e13f1bd5cc44d1f454a0bc9ba645e6b07605a4"
 metafile = true
 
 [[files]]
@@ -1188,6 +1233,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "07638f27b3eb2f49e823bb6e036b0d65e49ca582a904f4c631dad8962d38ba94"
 metafile = true
 
 [[files]]
@@ -1313,6 +1363,11 @@ metafile = true
 [[files]]
 file = "mods/winter-massacre.pw.toml"
 hash = "be16a637f69eed04fcbb83f8dd13ad737d2116edece9bc9e8e32af64263deafe"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "a62831380cb585ff66f4cf9f4c2c136bca13147714597b9add9afa25ab5ff852"
 metafile = true
 
 [[files]]

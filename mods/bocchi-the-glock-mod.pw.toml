@@ -1,0 +1,13 @@
+name = "Bocchi The Glock Mod"
+filename = "bocchi_the_glock-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ixUj3oYK/versions/MiA3RKnd/bocchi_the_glock-1.0.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "fdb600c72899516c7681b92b7870a7c60737b607"
+
+[update]
+[update.modrinth]
+mod-id = "ixUj3oYK"
+version = "MiA3RKnd"

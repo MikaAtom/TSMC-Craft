@@ -1,0 +1,13 @@
+name = "Mekanism Turrets"
+filename = "mekanism_turrets-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WXVvYlIb/versions/iJAO5FoF/mekanism_turrets-1.2.1.jar"
+hash-format = "sha1"
+hash = "25220a8aa89600f4e1442ba73a3f75c792e9a232"
+
+[update]
+[update.modrinth]
+mod-id = "WXVvYlIb"
+version = "iJAO5FoF"
