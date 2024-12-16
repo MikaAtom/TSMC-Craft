@@ -676,6 +676,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/festive-delight.pw.toml"
+hash = "865f26c796d9fa6aab98b8e400bf2a67a7a586432317430bef8d8af8cf028a4e"
+metafile = true
+
+[[files]]
 file = "mods/fexcraft-common-library.pw.toml"
 hash = "09b12d3f5b33dcad5d2cd7f458258af6a1cc7f68e65cfa41ed91446d22e2a33a"
 metafile = true
@@ -1171,6 +1176,11 @@ hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
 metafile = true
 
 [[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "2545158a1f23024a170302eabd6e28e05e989d16d9213ce25d4af8e5cc8b4df6"
+metafile = true
+
+[[files]]
 file = "mods/sons-of-sins.pw.toml"
 hash = "c4e1e3c58e77b3e5e84458328ce6d5f6627f5bf49e4774f416e44c7847b127fd"
 metafile = true
@@ -1218,6 +1228,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "96a3d4a122b7c27abc74d901a3926bf6be4e3a42874aa12928e37486f24e3651"
+metafile = true
+
+[[files]]
+file = "mods/sweaters.pw.toml"
+hash = "eb6ebe2d70faee97f4d70d541bd23ca95b474d7f04575f26cf3347715e7beac8"
 metafile = true
 
 [[files]]
@@ -1293,6 +1308,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "bf169dd7307af346fd880833a4adc23a4dfb8051e9703c8519f3a105f4a466b9"
+metafile = true
+
+[[files]]
+file = "mods/winter-massacre.pw.toml"
+hash = "be16a637f69eed04fcbb83f8dd13ad737d2116edece9bc9e8e32af64263deafe"
 metafile = true
 
 [[files]]
