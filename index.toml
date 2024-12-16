@@ -876,11 +876,6 @@ hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
 
 [[files]]
-file = "mods/luckys-smarter-mobs.pw.toml"
-hash = "2806288c73b0382e1dfa1765131385e02e634349d69748fd6b71bb2377a6436f"
-metafile = true
-
-[[files]]
 file = "mods/mafglib.pw.toml"
 hash = "28e1a9beef13c68d9c6cc890649d5ce6c1e54c50026ade79fbb09dff57e55578"
 metafile = true
@@ -963,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "17119379a925a5d60f97d618336a7ac1524ec9c434beb63dc510b53788be0ff9"
-metafile = true
-
-[[files]]
-file = "mods/more-mekanism-processing.pw.toml"
-hash = "e55d2520a24cc49eabb8a0dacf9808c5d97c6f1323796c67305db11416bd9ea4"
 metafile = true
 
 [[files]]
@@ -1141,11 +1131,6 @@ hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
-file = "mods/riskofrain-mobs.pw.toml"
-hash = "26ee0d8508566112e779004d9cb1c53937f109991d61e89755c020cdaea88fce"
-metafile = true
-
-[[files]]
 file = "mods/roguecraft.pw.toml"
 hash = "29137be5baa8113c3c4d99579085d28aaa2719ce48d71646adb823c87c519f95"
 metafile = true
@@ -1308,11 +1293,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
-metafile = true
-
-[[files]]
-file = "mods/theundead.pw.toml"
-hash = "a8c8e5619bb795ed92b4d29053c50ff61b15f0effec91c0f44d6f3643868a6d6"
 metafile = true
 
 [[files]]
