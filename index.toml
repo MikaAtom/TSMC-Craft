@@ -261,6 +261,10 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
+file = "config/sweaters/player.json"
+hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
+
+[[files]]
 file = "mods/aaa-particles.pw.toml"
 hash = "5d6360d35071f9ad71b23380b2a855612c1e09cd438d71feb3352ab8c9d96f94"
 metafile = true
