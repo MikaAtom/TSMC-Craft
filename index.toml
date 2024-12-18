@@ -411,6 +411,11 @@ hash = "c72f8ebba01c1973ec01c89f5c7d430009dbdb96a75a4a7c988781a99f25718a"
 metafile = true
 
 [[files]]
+file = "mods/blood-moon.pw.toml"
+hash = "b042fb1b7dc09df2f0a0c88f8dc409e6a6155d9439ce4c9df708c54b7eaf1ca3"
+metafile = true
+
+[[files]]
 file = "mods/bocchi-the-glock-mod.pw.toml"
 hash = "fda6dedcf8872c9e6eadd855bb82731f8af8dc7cd2fcc8505cbbcdc7675a8fc9"
 metafile = true
@@ -418,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
+metafile = true
+
+[[files]]
+file = "mods/bossominium.pw.toml"
+hash = "646dd6d5b8df396ed3f3b313969ef2dc93794b3bc6188ef8890fa180c152b4a9"
 metafile = true
 
 [[files]]
@@ -448,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "ca9bf272ff59fea86b50d9a6f6728a9a5b1b5079b538ac5d6e17e2d6fa66780d"
+metafile = true
+
+[[files]]
+file = "mods/chest-cavity-forge-port.pw.toml"
+hash = "1eebfb437acd41e8fc888eec1acc2f7f57aedd765b8cda5e81bb2e338baca9ab"
 metafile = true
 
 [[files]]
@@ -813,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/improvable-skills.pw.toml"
 hash = "25566825c0fce350f7c85cd73ca2d29087f658bb22fdcfb0bbf6cf0edac3d7d4"
+metafile = true
+
+[[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "1f8cb16049652433e2bd99be28f0dd35cc114224550fdb0d6d80abd0bc194d9b"
 metafile = true
 
 [[files]]
@@ -1291,8 +1311,18 @@ hash = "4104cf1df2251359e548b8799cbf42c1517b3e435c8f42dee3546ebc67f9146a"
 metafile = true
 
 [[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "95a8e49f8906aa8610cbd9e055d1a235c719e0c5208e71c9730cfced9a6fcf0d"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
+metafile = true
+
+[[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "33c33d9a85b4cd24c82ad26bdd31fc7165d56556bc3eff3742a62ab064f4610e"
 metafile = true
 
 [[files]]
