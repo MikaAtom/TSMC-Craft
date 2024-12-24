@@ -460,6 +460,11 @@ hash = "ca9bf272ff59fea86b50d9a6f6728a9a5b1b5079b538ac5d6e17e2d6fa66780d"
 metafile = true
 
 [[files]]
+file = "mods/chest-cavity-forge-port.pw.toml"
+hash = "1eebfb437acd41e8fc888eec1acc2f7f57aedd765b8cda5e81bb2e338baca9ab"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
 metafile = true
@@ -617,11 +622,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "2a2210d83ab42b429f7a3717e97ed2a68b2fa8b4a73af1a25e75763efe7cefec"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "93b9daa62a46ad070bec263cf43ab288c2c86d97999b0a911e6c8d92dec68583"
 metafile = true
 
 [[files]]
@@ -825,6 +825,11 @@ hash = "25566825c0fce350f7c85cd73ca2d29087f658bb22fdcfb0bbf6cf0edac3d7d4"
 metafile = true
 
 [[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "1f8cb16049652433e2bd99be28f0dd35cc114224550fdb0d6d80abd0bc194d9b"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
 metafile = true
@@ -897,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/majruszs-progressive-difficulty.pw.toml"
 hash = "16e4d5af9e585c7c3a68259cb84f4090b3722915ecf93be59ae210781762bbb3"
+metafile = true
+
+[[files]]
+file = "mods/mcef.pw.toml"
+hash = "6c20b812ae6e61bcb2332e252f1bcfe86a470e3100ae830cf1e1c46cc0d6edc0"
 metafile = true
 
 [[files]]
@@ -1105,11 +1115,6 @@ hash = "8742f15566f6961510617aa80a4ebe3b1e8f02a40591a4fd4f50befa915d7706"
 metafile = true
 
 [[files]]
-file = "mods/realistic-torches.pw.toml"
-hash = "9811ffe5f7f3d3076ca7a08c8a7f1a907cd9442e90c705565baf2e43025310f1"
-metafile = true
-
-[[files]]
 file = "mods/refined-polymorphism.pw.toml"
 hash = "952dd29eff4cf72ea37acda4ba66446a3af792de320f88915a33efb6c3711789"
 metafile = true
@@ -1280,6 +1285,11 @@ hash = "eb6ebe2d70faee97f4d70d541bd23ca95b474d7f04575f26cf3347715e7beac8"
 metafile = true
 
 [[files]]
+file = "mods/table-top-craft.pw.toml"
+hash = "b2bd8319255b5ce6b159df090a4a28f0c662490ba7fc35326ab927948e55b674"
+metafile = true
+
+[[files]]
 file = "mods/tactical-aid.pw.toml"
 hash = "0bd2c7c35f3fc8cfb6904a0ce07ceda812ebf08ef4118128e5850c2aaab16674"
 metafile = true
@@ -1297,6 +1307,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "4104cf1df2251359e548b8799cbf42c1517b3e435c8f42dee3546ebc67f9146a"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "95a8e49f8906aa8610cbd9e055d1a235c719e0c5208e71c9730cfced9a6fcf0d"
 metafile = true
 
 [[files]]
@@ -1342,6 +1357,11 @@ metafile = true
 [[files]]
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "8f24f728e1e69034beb9fe44cf2b2e0b40147a4ed5559f38cc851edcb43ceaab"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "d8ef55d4405b89dc79296ad1a6072c8f825dd6f929b509df673093e0d001c80a"
 metafile = true
 
 [[files]]
