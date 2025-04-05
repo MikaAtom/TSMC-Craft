@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "6c20b812ae6e61bcb2332e252f1bcfe86a470e3100ae830cf1e1c46cc0d6edc0"
+hash = "b5eb2351db973405c84166905b89d6f3f60fd9ce09f186a5147ba67cc99b1fee"
 metafile = true
 
 [[files]]
@@ -1042,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "c68c01f2be9eb52a40ed1b51061cfa91676c9830017942642f5afb2c0b239bed"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "7c9121acc8959e606d45ed758c98710e042b931269854518c0c37df1433123b7"
 metafile = true
 
 [[files]]
