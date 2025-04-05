@@ -1,13 +1,13 @@
 name = "Bossominium"
-filename = "bossominium-18.5.1.20.1.jar"
+filename = "bossominium-18.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QYXaSFOk/versions/N2x5S7kS/bossominium-18.5.1.20.1.jar"
+url = "https://cdn.modrinth.com/data/QYXaSFOk/versions/glaosxOE/bossominium-18.6.jar"
 hash-format = "sha1"
-hash = "731efe8a929e499c9e0187d9effe78c359cec740"
+hash = "bbeb1b76286922880dcccc05aab86e3bbe361127"
 
 [update]
 [update.modrinth]
 mod-id = "QYXaSFOk"
-version = "N2x5S7kS"
+version = "glaosxOE"

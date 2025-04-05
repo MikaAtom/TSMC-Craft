@@ -1,0 +1,13 @@
+name = "Twilight Lib"
+filename = "twilight_lib-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VImGYoWT/versions/GRlPfLLs/twilight_lib-1.20.1-1.0.jar"
+hash-format = "sha1"
+hash = "f9b0572944dfa7db6b0a0539db6f9775e90be45e"
+
+[update]
+[update.modrinth]
+mod-id = "VImGYoWT"
+version = "GRlPfLLs"

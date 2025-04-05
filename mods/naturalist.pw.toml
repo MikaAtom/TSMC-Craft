@@ -1,13 +1,13 @@
 name = "Naturalist"
-filename = "naturalist-forge-4.0.3-1.20.1.jar"
+filename = "naturalist-5.0pre2+forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/fapHaClR/naturalist-forge-4.0.3-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/LbtmTtvK/naturalist-5.0pre2%2Bforge-1.20.1.jar"
 hash-format = "sha1"
-hash = "233106b2b15b2bbb27df6c78cc8369c0f89d4df7"
+hash = "e0ddee72643c92f2b4754fa4d24c16d79eba343a"
 
 [update]
 [update.modrinth]
 mod-id = "F8BQNPWX"
-version = "fapHaClR"
+version = "LbtmTtvK"

@@ -1,13 +1,13 @@
 name = "Improvable Skills"
-filename = "ImprovableSkills-1.20.1-20.1.11.jar"
+filename = "ImprovableSkills-1.20.1-20.1.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9fT7HUaI/versions/AnpqPO1m/ImprovableSkills-1.20.1-20.1.11.jar"
+url = "https://cdn.modrinth.com/data/9fT7HUaI/versions/1AfCpWmc/ImprovableSkills-1.20.1-20.1.13.jar"
 hash-format = "sha1"
-hash = "25c71ab43279832f78c55bd54e0c77b95923d0e4"
+hash = "5354698d331524e62b235d747d4e0283cd027eb1"
 
 [update]
 [update.modrinth]
 mod-id = "9fT7HUaI"
-version = "AnpqPO1m"
+version = "1AfCpWmc"

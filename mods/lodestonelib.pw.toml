@@ -1,13 +1,13 @@
 name = "Lodestone"
-filename = "lodestone-1.20.1-1.6.2.1.jar"
+filename = "lodestone-1.20.1-1.6.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bN3xUWdo/versions/CPL5stBi/lodestone-1.20.1-1.6.2.1.jar"
+url = "https://cdn.modrinth.com/data/bN3xUWdo/versions/dRIycWqx/lodestone-1.20.1-1.6.4.1.jar"
 hash-format = "sha1"
-hash = "ae675b5569995ef0c3483b6edfb91ca7fe615544"
+hash = "e6346060ae70cbf103b231d8a1536bcd044c84a8"
 
 [update]
 [update.modrinth]
 mod-id = "bN3xUWdo"
-version = "CPL5stBi"
+version = "dRIycWqx"

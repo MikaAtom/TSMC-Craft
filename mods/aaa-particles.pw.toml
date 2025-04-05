@@ -1,13 +1,13 @@
 name = "AAA Particles"
-filename = "aaa_particles-1.20.1-1.2.1-forge.jar"
+filename = "aaa_particles-1.20.1-1.4.10-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/En8uHTOK/versions/t6K1q2Pu/aaa_particles-1.20.1-1.2.1-forge.jar"
+url = "https://cdn.modrinth.com/data/En8uHTOK/versions/y71X65Qm/aaa_particles-1.20.1-1.4.10-forge.jar"
 hash-format = "sha1"
-hash = "a1daaeb2463f5c016305c38d5214c0e38a5ffa8e"
+hash = "dbca654083b37f6148788335724e609f80d68033"
 
 [update]
 [update.modrinth]
 mod-id = "En8uHTOK"
-version = "t6K1q2Pu"
+version = "y71X65Qm"
