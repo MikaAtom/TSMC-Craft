@@ -540,11 +540,6 @@ hash = "e15da17337bc3e5778ca97f5aad7f69e30ad19a2067cda5fd467fe51800f37ca"
 metafile = true
 
 [[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "e5a6aaa216885d6f60a4184e7052e365cc4482618449ee769b9652429a2de7e3"
-metafile = true
-
-[[files]]
 file = "mods/create-track-map.pw.toml"
 hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
 metafile = true
