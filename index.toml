@@ -265,11 +265,6 @@ file = "config/sweaters/player.json"
 hash = "8eb95bcbc154530931e15fc418c8b1fe991095671409552099ea1aa596999ede"
 
 [[files]]
-file = "mods/aaa-particles.pw.toml"
-hash = "28e500e591fc32a4ded7ac36affac7534215b3b7ed7035ef98ae410263f5bc51"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra-delight.pw.toml"
 hash = "30b9918b7370036c674c2ffa0eef0f6f97629b7d121117f35f0db21380404d2b"
 metafile = true
@@ -317,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-caves-delight.pw.toml"
 hash = "d53f8c153e5ebdbbc6a0755c088e758ffbb76e19edd3fced254e4c5b267a47bb"
-metafile = true
-
-[[files]]
-file = "mods/alexs-caves-dimension.pw.toml"
-hash = "36a8f48eb975a5dff26373b7a222b254315959eaf0d579d1d531a632aa96bbdb"
 metafile = true
 
 [[files]]
@@ -580,11 +570,6 @@ hash = "51d581fbb788c18fd26a98824a43281dbf5b325c302e4ee1e0e26dab0a0e0f2c"
 metafile = true
 
 [[files]]
-file = "mods/desert-behemoths-sandworms!.pw.toml"
-hash = "93c1e1afca2f3409187b1ef3555609302d1876178452cba7053be86fc842bbce"
-metafile = true
-
-[[files]]
 file = "mods/diet.pw.toml"
 hash = "362fbf12eb76dbb98395c244aac06e01c24676feb62b470b4b1b1554087e533a"
 metafile = true
@@ -735,11 +720,6 @@ hash = "63ebfe051370b88c8355d1a496c3f5ee74678d540f4009c8ebd4707fb38d6d49"
 metafile = true
 
 [[files]]
-file = "mods/fragile-torches.pw.toml"
-hash = "cf5f6e8ccb3c217fff97ffef4554d1de6cd3066519a33729a8e0cebaae30a1a7"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
@@ -832,11 +812,6 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
-metafile = true
-
-[[files]]
-file = "mods/jamd.pw.toml"
-hash = "334068286ec4f418b023210341b1c12fa851f2d2de3c4130383a9f96d1c5a785"
 metafile = true
 
 [[files]]
@@ -1240,6 +1215,11 @@ hash = "ccdb7643a3d836a4cb754c8c1c39e105a305a0a84d4997f49274ca8cf4c94065"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
+metafile = true
+
+[[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "07638f27b3eb2f49e823bb6e036b0d65e49ca582a904f4c631dad8962d38ba94"
 metafile = true
@@ -1285,18 +1265,8 @@ hash = "2ccf6a8f128693e6164b97649121e956d26f34b91d9b898a3ef2d15a7487b99b"
 metafile = true
 
 [[files]]
-file = "mods/sweaters.pw.toml"
-hash = "eb6ebe2d70faee97f4d70d541bd23ca95b474d7f04575f26cf3347715e7beac8"
-metafile = true
-
-[[files]]
 file = "mods/table-top-craft.pw.toml"
 hash = "b2bd8319255b5ce6b159df090a4a28f0c662490ba7fc35326ab927948e55b674"
-metafile = true
-
-[[files]]
-file = "mods/tactical-aid.pw.toml"
-hash = "0bd2c7c35f3fc8cfb6904a0ce07ceda812ebf08ef4118128e5850c2aaab16674"
 metafile = true
 
 [[files]]
@@ -1350,11 +1320,6 @@ hash = "c66abcf408ad2d6ffe3fe7b2db9fc08ec2540896011047a58394d467669eef9c"
 metafile = true
 
 [[files]]
-file = "mods/true-herobrine.pw.toml"
-hash = "6e75d0188ca89dd041b0a8ada5d97c073df336da62bd0b8dc7aa90e32153ac12"
-metafile = true
-
-[[files]]
 file = "mods/twilight-lib.pw.toml"
 hash = "0d23c670d8fd08d941689271af89c8216e485e77036cf4ed52d07f92aad65fe7"
 metafile = true
@@ -1365,11 +1330,6 @@ hash = "ed27c3530b2f2a14d4d32d73a1f7917b63898792225782486a2f6f473e2b272e"
 metafile = true
 
 [[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "8f24f728e1e69034beb9fe44cf2b2e0b40147a4ed5559f38cc851edcb43ceaab"
-metafile = true
-
-[[files]]
 file = "mods/webdisplays.pw.toml"
 hash = "d8ef55d4405b89dc79296ad1a6072c8f825dd6f929b509df673093e0d001c80a"
 metafile = true
@@ -1377,11 +1337,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "af899e29bf80eda256b98f32321a9ac8dacf29c16e71825af6f240dd267ba1b6"
-metafile = true
-
-[[files]]
-file = "mods/winter-massacre.pw.toml"
-hash = "be16a637f69eed04fcbb83f8dd13ad737d2116edece9bc9e8e32af64263deafe"
 metafile = true
 
 [[files]]
