@@ -530,6 +530,31 @@ hash = "ecb3981c3be403017773839f748cba4da73a8591963449cc1d0d086743dce1f0"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "4d5d23c97c87b10111c7070d2886ea46664d3d8476724985bde412e3beda5805"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "e15da17337bc3e5778ca97f5aad7f69e30ad19a2067cda5fd467fe51800f37ca"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "e5a6aaa216885d6f60a4184e7052e365cc4482618449ee769b9652429a2de7e3"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "9c29a2143f86c5ff6224071809c3ae1495cf76584ec0b1486f95b6ac0716654c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "aea8cb2405e8c09591ad4ebcb03f76936b016176577852b9a922278de45a5785"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "66f2f3ecdb1304c765a0e01852240dbb8222240c75b14e76384db4f49a880c65"
 metafile = true
@@ -837,6 +862,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
