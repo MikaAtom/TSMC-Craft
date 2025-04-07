@@ -1,0 +1,13 @@
+name = "Create: Addon Compatibility"
+filename = "createaddoncompatibility-0.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QgrK9rtJ/versions/T7gQFXVK/createaddoncompatibility-0.2.4.jar"
+hash-format = "sha1"
+hash = "9ce0de488e84236d382a82b97585372535cfefbc"
+
+[update]
+[update.modrinth]
+mod-id = "QgrK9rtJ"
+version = "T7gQFXVK"

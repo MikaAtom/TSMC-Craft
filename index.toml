@@ -330,6 +330,10 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
+file = "mods/almostunified-forge-1.20.1-0.9.4.jar"
+hash = "bd9f014d5de7bf98e1433c948758f8f0c0c16d21658a80fb61b3db5bf1afca7b"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
@@ -530,8 +534,38 @@ hash = "ecb3981c3be403017773839f748cba4da73a8591963449cc1d0d086743dce1f0"
 metafile = true
 
 [[files]]
+file = "mods/create-better-motors.pw.toml"
+hash = "09eb5f5671f278b907793aad51173f192dbbc4db1ccdfa25a371e0247cfd5737"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "d400097f8d2642f2ac17c3f4a910ce2b65f59f6827bf771ebbd8c2134478f93d"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "e15da17337bc3e5778ca97f5aad7f69e30ad19a2067cda5fd467fe51800f37ca"
+metafile = true
+
+[[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "e5ccaa5b97e0c608e46422bd1e90540f0eb0a2cf9cf3ef12feefc721ed1df446"
+metafile = true
+
+[[files]]
+file = "mods/create-new-beginnings.pw.toml"
+hash = "99e95b082091d655e6294223100ec88af15446d644a7382f0e254d5eff75403a"
+metafile = true
+
+[[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "8d1ecc19be20553ec6fd141ed3e0859a3137c3826f4f627077d8bafe5324f1ff"
+metafile = true
+
+[[files]]
+file = "mods/create-the-air-war.pw.toml"
+hash = "304c9b3d15a6d4bd709c9afb4ed538a4ff5e5ae1ba3f02222eb71b162d6134b8"
 metafile = true
 
 [[files]]
@@ -547,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "13b1a2b6bb389a37c08cee933ee5357c9c6330f85be92dcd53fd01a3d8b45bf9"
+metafile = true
+
+[[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "ac961b56366a0d4caf3b79ccbb45504d435944c922b56634aecc367584628681"
 metafile = true
 
 [[files]]
@@ -1002,16 +1041,6 @@ metafile = true
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "6529f55293851714d814fa53a71b8af9182fbaae0f77313efe241f89ca5c485d"
-metafile = true
-
-[[files]]
-file = "mods/naturalist-delight.pw.toml"
-hash = "312eee7f11894607ed4c8d1e762cdffc81302df7cc54d8b2c6460cae3e71f1b2"
-metafile = true
-
-[[files]]
-file = "mods/naturalist.pw.toml"
-hash = "0f23f679fd20155fd68566322be23375737e4509f6c7e011f3984188beac3625"
 metafile = true
 
 [[files]]
