@@ -364,11 +364,6 @@ hash = "d49eb9fe23eb5b60b4216807c051e5522f11d428278e6dfdf5e6e04685190699"
 metafile = true
 
 [[files]]
-file = "mods/attributes.pw.toml"
-hash = "8889eced2235624451a986f438437fb02dc0d472a5d8f4d6875f0ce428e2aa64"
-metafile = true
-
-[[files]]
 file = "mods/automobility.pw.toml"
 hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
@@ -624,11 +619,6 @@ hash = "1375f3071788cec332f43cb759a71fbabe73ee3d1882a924c4768e19fe501b2d"
 metafile = true
 
 [[files]]
-file = "mods/default-skill-trees.pw.toml"
-hash = "51d581fbb788c18fd26a98824a43281dbf5b325c302e4ee1e0e26dab0a0e0f2c"
-metafile = true
-
-[[files]]
 file = "mods/diet.pw.toml"
 hash = "362fbf12eb76dbb98395c244aac06e01c24676feb62b470b4b1b1554087e533a"
 metafile = true
@@ -779,6 +769,11 @@ hash = "63ebfe051370b88c8355d1a496c3f5ee74678d540f4009c8ebd4707fb38d6d49"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "6a69d79b93e0634a65f9f00e30fa55b449a3e463847ab56ddc2847773774a8a8"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
@@ -816,11 +811,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2143dc055ae837c6a4de5da8dd228cacf73dbe872a5c603a28f5e623e22ea5e6"
-metafile = true
-
-[[files]]
-file = "mods/hardcore-revival.pw.toml"
-hash = "692ca246abeb5aa7875bdcb81ed6df80f73b32c95c8e932efe1cf078eb2ff6fb"
 metafile = true
 
 [[files]]
@@ -869,6 +859,11 @@ hash = "1f8cb16049652433e2bd99be28f0dd35cc114224550fdb0d6d80abd0bc194d9b"
 metafile = true
 
 [[files]]
+file = "mods/incapacitated.pw.toml"
+hash = "3bf78e870944b989c0ef405108d8dc13de8372207faedab148a1bf487a490382"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "fd23d47068cbfc4d56dfebc4c0fb3e52d687c9dc6403aa45e948c0fdcb0364a8"
 metafile = true
@@ -909,8 +904,18 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
+file = "mods/lazyyyyy.pw.toml"
+hash = "7b3ddd2a8697c641b5ab5bd912c60fb58e08f242f053d05b02901156cda85eaa"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
+metafile = true
+
+[[files]]
+file = "mods/leawind-third-person.pw.toml"
+hash = "d77d4625182d216caee7705070272b1b49ce866721ba3c3ea39e619bdb4f85a2"
 metafile = true
 
 [[files]]
@@ -1010,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160827f221023b2ba1758a2992ff5499962b0b7ec079bab3ad586b9e1fa5d6df"
+hash = "67125d52d54d426405720d1a13a5734e386414804cd038d68edf11048c1e6983"
 metafile = true
 
 [[files]]
@@ -1134,6 +1139,11 @@ hash = "d9356a50cecd50ea65cd9ecff20bd97df2b379776ccc0b78683b1df387418a04"
 metafile = true
 
 [[files]]
+file = "mods/pomkots-mechs.pw.toml"
+hash = "ba3570f557b41e96b8235cb45ae1eb9f757444d926a5a4e9c96c987d121bdbe7"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "cc9064c8ab8c286efa63451ea1d0421f279d6462615fd1f4f6f23f4b82a69e40"
 metafile = true
@@ -1161,11 +1171,6 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
-metafile = true
-
-[[files]]
-file = "mods/remorphed.pw.toml"
-hash = "4eeb2780f3aa864a6ccf2804404bb3e812118d1166b5b75da2299c65cd1d7651"
 metafile = true
 
 [[files]]
@@ -1224,18 +1229,8 @@ hash = "9ba55dd2e6c96446a48460b1f0ecb21022fe5a76441b74f0fd1a48535b16d0c9"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "143b09f2ad2399fbda7867a346c36f5c75d55f7f6e00d9e0b95a0343f7fa2e83"
-metafile = true
-
-[[files]]
 file = "mods/skillcloaks.pw.toml"
 hash = "089debd26d5c1fcc08ed1bfb40e13f1bd5cc44d1f454a0bc9ba645e6b07605a4"
-metafile = true
-
-[[files]]
-file = "mods/skills.pw.toml"
-hash = "648906c13434686a6511da5dc784abea455b583a12371c94de6f269e3b72e3cc"
 metafile = true
 
 [[files]]
@@ -1391,11 +1386,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "af899e29bf80eda256b98f32321a9ac8dacf29c16e71825af6f240dd267ba1b6"
-metafile = true
-
-[[files]]
-file = "mods/woodwalkers.pw.toml"
-hash = "21a323bd42a93e085272765de647fbe2bc0ac73373c183e217dbb33856526681"
 metafile = true
 
 [[files]]

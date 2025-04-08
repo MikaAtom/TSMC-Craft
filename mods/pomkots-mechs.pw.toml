@@ -1,0 +1,13 @@
+name = "Pomkots Mechs"
+filename = "pomkotsmechs-forge-0.0.1-alpha.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2rcrhKI8/versions/4smxpjWx/pomkotsmechs-forge-0.0.1-alpha.5.jar"
+hash-format = "sha1"
+hash = "852905f3b17dcc4583e081cb54026097b82d1744"
+
+[update]
+[update.modrinth]
+mod-id = "2rcrhKI8"
+version = "4smxpjWx"
