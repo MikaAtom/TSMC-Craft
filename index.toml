@@ -290,6 +290,11 @@ hash = "df44e54caf6a1c076a941974f31f7336b1705eb54db4e2498c3eb48b1edcd68b"
 metafile = true
 
 [[files]]
+file = "mods/advancedbook.pw.toml"
+hash = "b2eaea4e1cd435b1b096205e15c27f4fd25050f8af88a78ee4136929ac49efd8"
+metafile = true
+
+[[files]]
 file = "mods/advancement-count.pw.toml"
 hash = "d389e9a06755eac08035cb8ad4af60822b830bfdf132c20aee97c76add7c38a2"
 metafile = true
@@ -366,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/automobility.pw.toml"
 hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "7ba990ce2509a23376debc95dc2ffdbe46cc3975c9d1aa1c6a6b02db66ccea87"
 metafile = true
 
 [[files]]
@@ -599,11 +609,6 @@ hash = "4bed32e7d4f2f5a3fd7242e01a4e76de84b85ddaeea913bcf5944148d935c851"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
-metafile = true
-
-[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -611,11 +616,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "ab4dd2e8bed75b527cdb28d655132d8445ac8e641cea1d065e9538d15a408ffe"
-metafile = true
-
-[[files]]
-file = "mods/death-note-remastered.pw.toml"
-hash = "1375f3071788cec332f43cb759a71fbabe73ee3d1882a924c4768e19fe501b2d"
 metafile = true
 
 [[files]]
@@ -641,16 +641,6 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "9880616d03a44d016ab61e64116ad70b3ee4d91c6ae34a21a5f1a9be3412ba24"
-metafile = true
-
-[[files]]
-file = "mods/dragns-valiant-vehicles!.pw.toml"
-hash = "ccd17d7430d6d186dc06869c9c9529a7363256a1852a736f24f00b12e7d927a4"
-metafile = true
-
-[[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "7c75b995f93d17d119b00fc606a8158189c1f741e207361abea965f196437435"
 metafile = true
 
 [[files]]
@@ -839,6 +829,11 @@ hash = "c6bd437ef470b63e335e28cebfcd9317f5083beeeaae1f080680c4e0e4b4d0ab"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "a29b2a0ecea4d8615f3701c5ced378ae4f16bc966b72ad6b1ed64c4594038060"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
 metafile = true
@@ -946,11 +941,6 @@ metafile = true
 [[files]]
 file = "mods/majruszs-progressive-difficulty.pw.toml"
 hash = "16e4d5af9e585c7c3a68259cb84f4090b3722915ecf93be59ae210781762bbb3"
-metafile = true
-
-[[files]]
-file = "mods/mcef.pw.toml"
-hash = "b5eb2351db973405c84166905b89d6f3f60fd9ce09f186a5147ba67cc99b1fee"
 metafile = true
 
 [[files]]
@@ -1219,6 +1209,11 @@ hash = "2781e35de4c1cc8534d542b6d2060b14b6ab2e0ed2fe6a5586590a430d8afc1a"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "ad28b6da4783f9cc5e469e3073c2c94592d72cddfeb0d51b4c3dc406c3e5f512"
+metafile = true
+
+[[files]]
 file = "mods/shadowizardlib.pw.toml"
 hash = "6ccb02f9a32cddd9903cd688d27c3e99082aebb7c9e25713425e2ebf50246e2f"
 metafile = true
@@ -1291,6 +1286,11 @@ metafile = true
 [[files]]
 file = "mods/stardew-fishing.pw.toml"
 hash = "ed47450f506e792f30762bfdd4905b2aa80a07259cfc0ea162881649f9c933b8"
+metafile = true
+
+[[files]]
+file = "mods/stevesrealisticsleep.pw.toml"
+hash = "c5916d64f0e851ccee06cb52f1a526e7165eb53c20e7d40409c1603bde1d8fbd"
 metafile = true
 
 [[files]]
@@ -1376,11 +1376,6 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "ed27c3530b2f2a14d4d32d73a1f7917b63898792225782486a2f6f473e2b272e"
-metafile = true
-
-[[files]]
-file = "mods/webdisplays.pw.toml"
-hash = "d8ef55d4405b89dc79296ad1a6072c8f825dd6f929b509df673093e0d001c80a"
 metafile = true
 
 [[files]]

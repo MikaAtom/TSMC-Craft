@@ -1,0 +1,13 @@
+name = "Advanced Book"
+filename = "advancedbook-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aO4gqyXW/versions/TKQktoaH/advancedbook-2.0.1.jar"
+hash-format = "sha1"
+hash = "30c1a7145a462521e0da9eb4ce2f03baaa38807d"
+
+[update]
+[update.modrinth]
+mod-id = "aO4gqyXW"
+version = "TKQktoaH"
