@@ -1289,9 +1289,8 @@ hash = "ed47450f506e792f30762bfdd4905b2aa80a07259cfc0ea162881649f9c933b8"
 metafile = true
 
 [[files]]
-file = "mods/stevesrealisticsleep.pw.toml"
-hash = "c5916d64f0e851ccee06cb52f1a526e7165eb53c20e7d40409c1603bde1d8fbd"
-metafile = true
+file = "mods/stevesrealisticsleep-forge-1.11.2+mc1.20-1.20.1.jar"
+hash = "b7be0f4565e312ad9e60ab36ffb1ffed10680b8f77ecb85c35ceaa1827e9a131"
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
