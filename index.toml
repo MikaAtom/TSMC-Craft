@@ -569,6 +569,11 @@ hash = "8d1ecc19be20553ec6fd141ed3e0859a3137c3826f4f627077d8bafe5324f1ff"
 metafile = true
 
 [[files]]
+file = "mods/create-tfmg.pw.toml"
+hash = "a6f1fea50f0dba0a22af66afcd6e0df50aafb72796295127d069b496dbcf4730"
+metafile = true
+
+[[files]]
 file = "mods/create-the-air-war.pw.toml"
 hash = "304c9b3d15a6d4bd709c9afb4ed538a4ff5e5ae1ba3f02222eb71b162d6134b8"
 metafile = true
@@ -699,6 +704,11 @@ hash = "839615eb9f9bb0c4ef51a64724789676ed26818719b2ad19408e0f818c1e061d"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "e22c24d02f4737fbe418d93206a0644914c06396a63e599ab12642979bbf148b"
+metafile = true
+
+[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "8d859300d59aa4e48a44416df8a0e82c7af663e9dcc0fec0bdfb1452ff7a48ae"
 metafile = true
@@ -781,6 +791,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3518f840af4b96700a035519e7ff8b75b767035ab6c7b6d26c99d01d076a5043"
+metafile = true
+
+[[files]]
+file = "mods/game-discs.pw.toml"
+hash = "68f4afb944afca91008fc42a8c2159f97c29c85fda233a09545d1efd0f8134f9"
 metafile = true
 
 [[files]]
@@ -909,11 +924,6 @@ hash = "79f696c09f378d5a2127ad7ddcda4c03cb2fe71622860c99addef9aa29c91b74"
 metafile = true
 
 [[files]]
-file = "mods/leawind-third-person.pw.toml"
-hash = "d77d4625182d216caee7705070272b1b49ce866721ba3c3ea39e619bdb4f85a2"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "7aa3246c669d9f70a841567322d69320ba78f6d1a5f968eaecf97af086ff29f7"
 metafile = true
@@ -991,6 +1001,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "1a9d54cef041c4c6e16d3eee37f2310bebaace8ee33dfa25fbab7df38f4d23ca"
+metafile = true
+
+[[files]]
+file = "mods/minopp.pw.toml"
+hash = "a345331ac54c8442f475a2e5e4127455b5f5efbcd0927b99d1b366d28fb997c5"
 metafile = true
 
 [[files]]
@@ -1129,11 +1144,6 @@ hash = "d9356a50cecd50ea65cd9ecff20bd97df2b379776ccc0b78683b1df387418a04"
 metafile = true
 
 [[files]]
-file = "mods/pomkots-mechs.pw.toml"
-hash = "ba3570f557b41e96b8235cb45ae1eb9f757444d926a5a4e9c96c987d121bdbe7"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "cc9064c8ab8c286efa63451ea1d0421f279d6462615fd1f4f6f23f4b82a69e40"
 metafile = true
@@ -1216,6 +1226,11 @@ metafile = true
 [[files]]
 file = "mods/shadowizardlib.pw.toml"
 hash = "6ccb02f9a32cddd9903cd688d27c3e99082aebb7c9e25713425e2ebf50246e2f"
+metafile = true
+
+[[files]]
+file = "mods/simple-basketball.pw.toml"
+hash = "20bd8d4ba61ba1ddc0c546e6b9a64f7cda7ddf88a388995035e3bdc62fa28afb"
 metafile = true
 
 [[files]]
