@@ -794,11 +794,6 @@ hash = "3518f840af4b96700a035519e7ff8b75b767035ab6c7b6d26c99d01d076a5043"
 metafile = true
 
 [[files]]
-file = "mods/game-discs.pw.toml"
-hash = "68f4afb944afca91008fc42a8c2159f97c29c85fda233a09545d1efd0f8134f9"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "67546abdcdd08e9977cdabb7011330edba00d8d7b2fe2e438807d26cff01c09b"
 metafile = true
