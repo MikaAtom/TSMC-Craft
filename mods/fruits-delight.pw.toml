@@ -1,13 +1,13 @@
 name = "Fruits Delight"
-filename = "fruitsdelight-1.0.21.jar"
+filename = "fruitsdelight-1.0.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/g6sbyCTu/versions/kErKgKkm/fruitsdelight-1.0.21.jar"
+url = "https://cdn.modrinth.com/data/g6sbyCTu/versions/x48mxwHB/fruitsdelight-1.0.19.jar"
 hash-format = "sha1"
-hash = "d623294851495013be220909a3fd0afbd065fe8f"
+hash = "5b0f850dece2b7e3f52a9290f7d65d86e072c66f"
 
 [update]
 [update.modrinth]
 mod-id = "g6sbyCTu"
-version = "kErKgKkm"
+version = "x48mxwHB"

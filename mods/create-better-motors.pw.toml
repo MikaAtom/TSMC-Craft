@@ -1,13 +1,13 @@
 name = "Create: Better Motors"
-filename = "create_better_motors-3.0.0.jar"
+filename = "create_better_motors-1.1.1-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PzouXFuY/versions/MGcW6dd0/create_better_motors-3.0.0.jar"
+url = "https://cdn.modrinth.com/data/PzouXFuY/versions/27qyHzTH/create_better_motors-1.1.1-forge-1.20.1.jar"
 hash-format = "sha1"
-hash = "f0ce37f6c883b9dc35e1948bb03e9e27cfe679b5"
+hash = "a6d44d58d2a378bb38bf6a6c0d7a6c9f14c5c39a"
 
 [update]
 [update.modrinth]
 mod-id = "PzouXFuY"
-version = "MGcW6dd0"
+version = "27qyHzTH"

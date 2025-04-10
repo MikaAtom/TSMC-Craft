@@ -1,0 +1,13 @@
+name = "Create Extra Casing"
+filename = "create_extra_casing-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yEGVcr59/versions/VBfLS2ee/create_extra_casing-0.0.2.jar"
+hash-format = "sha1"
+hash = "d23cb4d742cf50b2202192fd52ed93ba3625088b"
+
+[update]
+[update.modrinth]
+mod-id = "yEGVcr59"
+version = "VBfLS2ee"
