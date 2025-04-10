@@ -404,6 +404,11 @@ hash = "ab86c301b50308e58742faa6712c7dc034c0a109a0d4d1d9c21953a79aac3eb8"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "0161b8a5419e3c3280873ae2e4942b65cafa52f9c901c12d527c45c20cd905e7"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
@@ -801,6 +806,11 @@ metafile = true
 [[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "bd702422ad441d7b72776afd732dc49b1907a560a541c99034e8d0916b2459bd"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
 metafile = true
 
 [[files]]
@@ -1214,6 +1224,11 @@ hash = "2781e35de4c1cc8534d542b6d2060b14b6ab2e0ed2fe6a5586590a430d8afc1a"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "794e5ce53566cdf3479d6f5a7cf58c13c7ffd6a0bcaa2904e2d883e6fec09a4c"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "ad28b6da4783f9cc5e469e3073c2c94592d72cddfeb0d51b4c3dc406c3e5f512"
 metafile = true
@@ -1297,10 +1312,6 @@ metafile = true
 file = "mods/stardew-fishing.pw.toml"
 hash = "ed47450f506e792f30762bfdd4905b2aa80a07259cfc0ea162881649f9c933b8"
 metafile = true
-
-[[files]]
-file = "mods/stevesrealisticsleep-forge-1.11.2+mc1.20-1.20.1.jar"
-hash = "b7be0f4565e312ad9e60ab36ffb1ffed10680b8f77ecb85c35ceaa1827e9a131"
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
