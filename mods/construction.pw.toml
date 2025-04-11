@@ -1,0 +1,13 @@
+name = "Construction"
+filename = "construction deco Forge 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jv05qdpr/versions/afEqqVZE/construction%20deco%20Forge%201.20.1.jar"
+hash-format = "sha1"
+hash = "9f4e2dbdde3018f17b8135eea1fba1432bdff032"
+
+[update]
+[update.modrinth]
+mod-id = "jv05qdpr"
+version = "afEqqVZE"

@@ -369,6 +369,11 @@ hash = "d49eb9fe23eb5b60b4216807c051e5522f11d428278e6dfdf5e6e04685190699"
 metafile = true
 
 [[files]]
+file = "mods/atmospheric.pw.toml"
+hash = "e413d88cac646fc9b87ea5fe7de883966d9146ff3bdd2e1a4d3aeaeca4d40c60"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "0b50aa5e55bf2bea86e660f15167e96e2045ba3e355cbfad6006a221b1ad0a3e"
 metafile = true
@@ -506,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "b110d17098d959631ac663a006fe3145784048d5b443483189949ad8240fb82c"
+metafile = true
+
+[[files]]
+file = "mods/construction.pw.toml"
+hash = "95cae7d651c28120ebddeceff8f38c81dffa8aac4b3d6bed7a535f89c19555db"
 metafile = true
 
 [[files]]
@@ -1105,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
-hash = "3fd59955b88223a7a6ad9ab2633464672ab3c8e7ac1ab42affeb5c421646e4ee"
+hash = "14f15871a57b625879bbe35741abbd8ff19bdf3bcde51c167a599aa608a07436"
 metafile = true
 
 [[files]]
