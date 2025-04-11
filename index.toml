@@ -419,6 +419,11 @@ hash = "c72f8ebba01c1973ec01c89f5c7d430009dbdb96a75a4a7c988781a99f25718a"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "aba280e6b2da6e901771d58f8bd5c0a3b45fdfdaf297044824af8be446d95dc7"
+metafile = true
+
+[[files]]
 file = "mods/bocchi-the-glock-mod.pw.toml"
 hash = "fda6dedcf8872c9e6eadd855bb82731f8af8dc7cd2fcc8505cbbcdc7675a8fc9"
 metafile = true
