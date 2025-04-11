@@ -1,0 +1,13 @@
+name = "Multiplayer Server Pause"
+filename = "MultiplayerServerPause-1.20.1-Forge-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RPXnAvtA/versions/bfGxkA4Z/MultiplayerServerPause-1.20.1-Forge-1.3.3.jar"
+hash-format = "sha1"
+hash = "8cc6b3e20493676315ce2a1663b79aef4cdd1ced"
+
+[update]
+[update.modrinth]
+mod-id = "RPXnAvtA"
+version = "bfGxkA4Z"

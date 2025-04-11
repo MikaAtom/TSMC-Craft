@@ -1049,6 +1049,11 @@ hash = "b72dc00bbe3c4a272c30adc925f84d5b977ad72b03625c6a60fe01d909656d44"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "a2b391d27fca904d88795d8c7173f382cef37eb41bd667c347dcbcaed7b2cf33"
+metafile = true
+
+[[files]]
 file = "mods/multiverse.pw.toml"
 hash = "782476f6747e7e08656f470f4a4648c0859f12f795a6d318fea24aa9b08ea7e8"
 metafile = true
