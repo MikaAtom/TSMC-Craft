@@ -404,11 +404,6 @@ hash = "ab86c301b50308e58742faa6712c7dc034c0a109a0d4d1d9c21953a79aac3eb8"
 metafile = true
 
 [[files]]
-file = "mods/betterdays.pw.toml"
-hash = "0161b8a5419e3c3280873ae2e4942b65cafa52f9c901c12d527c45c20cd905e7"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ca52b58cf0540bcec5d8b0318cddb371683b6f3f87ad9b925ff600ddd330f461"
 metafile = true
@@ -1317,6 +1312,10 @@ metafile = true
 file = "mods/stardew-fishing.pw.toml"
 hash = "ed47450f506e792f30762bfdd4905b2aa80a07259cfc0ea162881649f9c933b8"
 metafile = true
+
+[[files]]
+file = "mods/stevesrealisticsleep-forge-1.11.2+mc1.20-1.20.1.jar"
+hash = "b7be0f4565e312ad9e60ab36ffb1ffed10680b8f77ecb85c35ceaa1827e9a131"
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
