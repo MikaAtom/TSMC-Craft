@@ -1465,5 +1465,9 @@ file = "schematics/Nuclear_Power_Plant.litematic"
 hash = "0d91b29d2dd100204ab3a54d40cac14575881275657bfc0bcc9fdc000973c394"
 
 [[files]]
+file = "schematics/amusement_park.litematic"
+hash = "6ae791f4b219b0aa1b29c06f76f3cf3139e25d62243ff686ad24eb6182fcdbf6"
+
+[[files]]
 file = "servers.dat"
 hash = "c5fbfa4e0ab5be8ac7be73cd7d859800a6e87daea5c1f5ee4058f6b885ef5e24"
