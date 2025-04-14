@@ -1,13 +1,13 @@
 name = "CreRaces Classic"
-filename = "creraces-1.20.1-1.1.9.jar"
+filename = "creraces-1.20.1-1.1.9.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ekeYhQOi/versions/Mj3HpCTQ/creraces-1.20.1-1.1.9.jar"
+url = "https://cdn.modrinth.com/data/ekeYhQOi/versions/nevU4Xnl/creraces-1.20.1-1.1.9.1.jar"
 hash-format = "sha1"
-hash = "189754ae1c9733183d34fac931668ee4c33d8edc"
+hash = "9372c668102dc8415587c9768604a13100165640"
 
 [update]
 [update.modrinth]
 mod-id = "ekeYhQOi"
-version = "Mj3HpCTQ"
+version = "nevU4Xnl"

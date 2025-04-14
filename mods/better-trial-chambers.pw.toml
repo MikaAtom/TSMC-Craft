@@ -1,0 +1,13 @@
+name = "Better Trial Chambers"
+filename = "Better_Trial_Chambers_1.2.0_version_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/llAgr1pa/versions/FYdegIUn/Better_Trial_Chambers_1.2.0_version_1.20.1.jar"
+hash-format = "sha1"
+hash = "16d450e25ee667cb5cec5ae87006019db902ab48"
+
+[update]
+[update.modrinth]
+mod-id = "llAgr1pa"
+version = "FYdegIUn"

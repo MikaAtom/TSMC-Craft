@@ -1,0 +1,13 @@
+name = "Herbalist"
+filename = "herbalistmod-b1.9.8c-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fUz5XpqI/versions/ZaejFsiL/herbalistmod-b1.9.8c-1.20.1.jar"
+hash-format = "sha1"
+hash = "c5df762adbb4574dac4833a153495012c87b6d1a"
+
+[update]
+[update.modrinth]
+mod-id = "fUz5XpqI"
+version = "ZaejFsiL"

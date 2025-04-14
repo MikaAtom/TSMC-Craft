@@ -1,0 +1,13 @@
+name = "Roamers"
+filename = "roamers_v2.0_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c28d0b2ee015f50fea1dd1e7821a7a41a31f1340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5734709
+project-id = 724447
