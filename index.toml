@@ -969,7 +969,7 @@ metafile = true
 
 [[files]]
 file = "mods/kogtyv-tav.pw.toml"
-hash = "b69c1c19af97f4076df35977ed504babf1559b0adbfe94414e60130c41b37c9b"
+hash = "f358b1b4f848c92102a3e502bafc9dc5d471cb4eaa4fb5841835dbbaefeb3a08"
 metafile = true
 
 [[files]]
@@ -1300,11 +1300,6 @@ metafile = true
 [[files]]
 file = "mods/roguecraft.pw.toml"
 hash = "29137be5baa8113c3c4d99579085d28aaa2719ce48d71646adb823c87c519f95"
-metafile = true
-
-[[files]]
-file = "mods/rs-crafting-monitor-in-grid.pw.toml"
-hash = "14f6e0ed32d428db03e674a8e69725d8896a4555e0b0b8184b4bd16bc4c1342c"
 metafile = true
 
 [[files]]

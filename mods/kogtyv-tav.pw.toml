@@ -1,6 +1,6 @@
 name = "kogtyv-Towny and Village"
 filename = "kogtyv-TownyAndVillage-1.4-Forge-1.20.jar"
-side = "client"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/xXClL8T5/versions/lLPJCu4z/kogtyv-TownyAndVillage-1.4-Forge-1.20.jar"
