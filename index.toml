@@ -1083,11 +1083,6 @@ hash = "8ccb54bebc5af2470ee2fdaf0a719efd00548b442f6641ed88f7b031207dc4cd"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies-war-n-taxes.pw.toml"
-hash = "4c8fc55092e1d0ebde4c0da91a13707829d7411c4d47f299f833abfb52c2ac63"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "cc6bcc0aa4e2b4c4b83c50a7bd73405ac60ba5e09a6bc92fbd9436cc61c10009"
 metafile = true
