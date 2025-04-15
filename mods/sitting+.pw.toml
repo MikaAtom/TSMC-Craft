@@ -1,0 +1,13 @@
+name = "Sitting+"
+filename = "sittingplus-2.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RVtIOlYX/versions/wSFXbzP9/sittingplus-2.0.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "dad65ac4657351f68d909fb7286c5125d872ee5d"
+
+[update]
+[update.modrinth]
+mod-id = "RVtIOlYX"
+version = "wSFXbzP9"

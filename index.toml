@@ -1348,6 +1348,11 @@ hash = "9ba55dd2e6c96446a48460b1f0ecb21022fe5a76441b74f0fd1a48535b16d0c9"
 metafile = true
 
 [[files]]
+file = "mods/sitting+.pw.toml"
+hash = "b6377d82f357fe3e0604a18930cab39784846d15aa1e32153131f4839aedf90c"
+metafile = true
+
+[[files]]
 file = "mods/skillcloaks.pw.toml"
 hash = "089debd26d5c1fcc08ed1bfb40e13f1bd5cc44d1f454a0bc9ba645e6b07605a4"
 metafile = true
