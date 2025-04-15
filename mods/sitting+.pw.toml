@@ -1,13 +1,13 @@
 name = "Sitting+"
-filename = "sittingplus-2.0.3-1.20.1.jar"
+filename = "Sitting+-2.0.2-forge-1.20_1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RVtIOlYX/versions/wSFXbzP9/sittingplus-2.0.3-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/RVtIOlYX/versions/oKMTEe0v/Sitting%2B-2.0.2-forge-1.20_1.20.4.jar"
 hash-format = "sha1"
-hash = "dad65ac4657351f68d909fb7286c5125d872ee5d"
+hash = "93b18fc73c6c8d9b103a552f4ed7dc6e67ba5ce5"
 
 [update]
 [update.modrinth]
 mod-id = "RVtIOlYX"
-version = "wSFXbzP9"
+version = "oKMTEe0v"
