@@ -659,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7c5ae4adfb514315d9abb8c4e3f19601948731622b765cab939d7cf1e5c633f1"
+hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
@@ -1210,11 +1210,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "7c334196e474463949d42ea741afe7177f09572bdf50edf51fb7bd90a1093d5e"
-metafile = true
-
-[[files]]
-file = "mods/physics-mod.pw.toml"
-hash = "d19b05bd40ddad5469d2202cea096c60a0dfb62a0831a6bfbfd9d7a760c51ef6"
 metafile = true
 
 [[files]]

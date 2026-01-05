@@ -3,3 +3,7 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# OS-specific files
+.DS_Store
+Thumbs.db
